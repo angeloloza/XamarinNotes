@@ -1,0 +1,14 @@
+C:\Users\angelo.loza\source\repos\Multiplataforma\Multiplataforma\Multiplataforma\bin\Debug\netstandard2.0\Multiplataforma.deps.json
+C:\Users\angelo.loza\source\repos\Multiplataforma\Multiplataforma\Multiplataforma\bin\Debug\netstandard2.0\Multiplataforma.dll
+C:\Users\angelo.loza\source\repos\Multiplataforma\Multiplataforma\Multiplataforma\bin\Debug\netstandard2.0\ref\Multiplataforma.dll
+C:\Users\angelo.loza\source\repos\Multiplataforma\Multiplataforma\Multiplataforma\bin\Debug\netstandard2.0\Multiplataforma.pdb
+C:\Users\angelo.loza\source\repos\Multiplataforma\Multiplataforma\Multiplataforma\obj\Debug\netstandard2.0\Multiplataforma.csprojAssemblyReference.cache
+C:\Users\angelo.loza\source\repos\Multiplataforma\Multiplataforma\Multiplataforma\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\angelo.loza\source\repos\Multiplataforma\Multiplataforma\Multiplataforma\obj\Debug\netstandard2.0\Multiplataforma.AssemblyInfoInputs.cache
+C:\Users\angelo.loza\source\repos\Multiplataforma\Multiplataforma\Multiplataforma\obj\Debug\netstandard2.0\Multiplataforma.AssemblyInfo.cs
+C:\Users\angelo.loza\source\repos\Multiplataforma\Multiplataforma\Multiplataforma\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\angelo.loza\source\repos\Multiplataforma\Multiplataforma\Multiplataforma\obj\Debug\netstandard2.0\Multiplataforma.dll
+C:\Users\angelo.loza\source\repos\Multiplataforma\Multiplataforma\Multiplataforma\obj\Debug\netstandard2.0\ref\Multiplataforma.dll
+C:\Users\angelo.loza\source\repos\Multiplataforma\Multiplataforma\Multiplataforma\obj\Debug\netstandard2.0\Multiplataforma.pdb
+C:\Users\angelo.loza\source\repos\Multiplataforma\Multiplataforma\Multiplataforma\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Users\angelo.loza\source\repos\Multiplataforma\Multiplataforma\Multiplataforma\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
